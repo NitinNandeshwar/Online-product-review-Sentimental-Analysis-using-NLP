@@ -8,3 +8,16 @@
 - Data Architecture - Flipkart web page --> Search Flask API(Python) ---> MongoDB ---> NLP Flask API --> Power BI Dashboard(Output)  
 
 Technologies: Python, BeautifulSoup, MongoDB, Flask, Docker, Power BI,Natural Language Processing (NLP),Software Integration, Dashboard
+
+### Input
+
+![Figure 1](Images/Input.PNG)
+
+Fig: Online product Dashboard web_scraping Input
+
+
+### Output
+
+![Figure 2](Images/Output.PNG)
+
+Fig: Online product Dashboard web_scraping Output
