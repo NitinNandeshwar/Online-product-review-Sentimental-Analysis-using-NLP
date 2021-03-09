@@ -11,13 +11,13 @@ Technologies: Python, BeautifulSoup, MongoDB, Flask, Docker, Power BI,Natural La
 
 ### Input
 
-![Figure 1](Images/Input.PNG)
+![Figure 1](Images/Input.png)
 
 Fig: Online product Dashboard web_scraping Input
 
 
 ### Output
 
-![Figure 2](Images/Output.PNG)
+![Figure 2](Images/Output.png)
 
 Fig: Online product Dashboard web_scraping Output
